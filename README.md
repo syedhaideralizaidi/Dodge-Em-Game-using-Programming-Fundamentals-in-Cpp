@@ -1,2 +1,2 @@
-# Dodge-Em-Game-using-Programming-Fundamentals-in-C-
-Dodge 'Em game using basic programming in C++ language.
+# dodge_em
+Dodge 'em made in Cpp for university project.
